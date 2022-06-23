@@ -33,3 +33,5 @@ scriptt 14 - copies all the HTML files from the current working directory to the
 script 15 - moves all files beginning with an uppercase letter to the directory /tmp/u
 
 script 16 - Create a script that deletes all files in the current working directory that end with the character ~
+
+script 17 - Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
