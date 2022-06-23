@@ -35,3 +35,5 @@ script 15 - moves all files beginning with an uppercase letter to the directory 
 script 16 - Create a script that deletes all files in the current working directory that end with the character ~
 
 script 17 - Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
+
+script 18 - command that lists all the files and directories of the current directory, separated by commas (,)
