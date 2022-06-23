@@ -9,4 +9,5 @@ script 8 - Write a script that sets the permission to the file: Owner: no permis
 script 9 - Write a script that sets the mode of the file
 script 10 - Write a script that sets the mode of the file hello the same as olleh’s mode
 script 11 - Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
-script 12 - Create a script that creates a directory called my_dir with permissions 751 in the working directory 
+script 12 - Create a script that creates a directory called my_dir with permissions 751 in the working directory
+script 17 - Write a script that will play the StarWars IV episode in the terminal 
