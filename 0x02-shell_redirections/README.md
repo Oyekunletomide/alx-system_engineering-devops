@@ -23,3 +23,4 @@ script 21 - Write a script that reverse its input
 script 22 - Write a script that displays all users and their home directories, sorted by users. Based on the the /etc/passwd file
 script 100empty - Write a command that finds all empty files and directories in the current directory and all sub-directories
 script 100gif - Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories
+script 100acrostic - Create a script that decodes acrostics that use the first letter of each line
