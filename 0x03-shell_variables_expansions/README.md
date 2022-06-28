@@ -6,4 +6,5 @@ script 4 - Create a script that lists environment variables
 script 5 - Create a script that lists all local variables and environment variables, and functions
 script 6 - Create a script that creates a new local variable. Name: BEST, Value: School
 script 7 - Create a script that creates a new global variable. Name: BEST, Value: School
-script 8 - 
+script 8 - Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
+script 9 - 
